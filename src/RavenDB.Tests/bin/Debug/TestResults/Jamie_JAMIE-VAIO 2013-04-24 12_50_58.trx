@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1a9645ec-9f80-4b15-b306-6a86015da6f0" name="Jamie@JAMIE-VAIO 2013-04-24 12:50:58" runUser="JAMIE-VAIO\Jamie" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="be03f9b9-ee48-44a7-98fd-9397a8a63127">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Jamie_JAMIE-VAIO 2013-04-24 12_50_58" />
+  </TestSettings>
+  <Times creation="2013-04-24T12:50:58.3581751+01:00" queuing="2013-04-24T12:50:58.8312021+01:00" start="2013-04-24T12:50:59.0022119+01:00" finish="2013-04-24T12:51:00.7053093+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateSampleData" storage="c:\repositories\ravendb\ravendb.tests\bin\debug\ravendb.tests.dll" id="5d686d2f-53dd-0685-8504-8fa0bff9812a">
+      <Execution timeOut="1800000" id="79691038-4160-41b0-8e6b-46378f3265c7" />
+      <TestMethod codeBase="C:/Repositories/RavenDB/RavenDB.Tests/bin/Debug/RavenDB.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="RavenDB.Tests.BasicTests, RavenDB.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateSampleData" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5d686d2f-53dd-0685-8504-8fa0bff9812a" executionId="79691038-4160-41b0-8e6b-46378f3265c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="79691038-4160-41b0-8e6b-46378f3265c7" testId="5d686d2f-53dd-0685-8504-8fa0bff9812a" testName="CreateSampleData" computerName="JAMIE-VAIO" duration="00:00:01.5457526" startTime="2013-04-24T12:50:59.0452144+01:00" endTime="2013-04-24T12:51:00.6523063+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79691038-4160-41b0-8e6b-46378f3265c7">
+    </UnitTestResult>
+  </Results>
+</TestRun>

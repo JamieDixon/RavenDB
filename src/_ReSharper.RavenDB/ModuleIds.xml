@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="1CD403EC-ECB2-45C4-AE9C-C48817D4B6C1" ModuleId="RavenDB.Tests" />
+  <Module PersistentId="BF42FF51-9950-44E4-B9D0-19D26FDC225F" ModuleId="RavenDB" />
+</Modules>
