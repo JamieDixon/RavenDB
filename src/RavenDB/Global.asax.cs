@@ -40,6 +40,7 @@
 
             Store.Initialize();
 
+            // Create all indexes that don't already exist in the Raven DB.
             IndexCreation.CreateIndexes(typeof(MvcApplication).Assembly, Store);
         }
 

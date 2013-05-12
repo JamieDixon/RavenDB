@@ -1,0 +1,13 @@
+﻿@model RavenDB.Models.UserModel
+
+@using (Html.BeginForm("Index","Home"))
+{ 
+    @Html.LabelFor(x => x.Name)
+        @Html.TextBoxFor(x => x.Name)
+    @Html.LabelFor(x => x.Age)
+        @Html.TextBoxFor(x => x.Age)
+    @Html.LabelFor(x => x.Tags)
+        @Html.TextBoxFor(x => x.Tags)
+
+    <input type="submit" value="Create User" />
+}   

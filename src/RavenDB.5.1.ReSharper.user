@@ -13,38 +13,55 @@
       <File id="1CD403EC-ECB2-45C4-AE9C-C48817D4B6C1/f:BasicTests.Tests.cs" caret="2437" fromTop="36" />
       <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:App_Start/f:NinjectWebCommon.cs" caret="1734" fromTop="37" />
       <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Content/f:Site.css" caret="597" fromTop="17" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:App_Start/f:FilterConfig.cs" caret="131" fromTop="7" />
       <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/f:Error.cshtml" caret="0" fromTop="0" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/f:_Layout.cshtml" caret="192" fromTop="6" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="1330" fromTop="25" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Indexes/f:UserModelsUsersByNameIndex.cs" caret="463" fromTop="16" />
       <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/d:DisplayTemplates/f:UserModel.cshtml" caret="68" fromTop="2" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Home/f:Index.cshtml" caret="115" fromTop="8" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="883" fromTop="35" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="1253" fromTop="19" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/d:EditorTemplates/f:UserModel.cshtml" caret="294" fromTop="10" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:ViewModels/f:HomePageViewModel.cs" caret="151" fromTop="7" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="325" fromTop="15" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:ClassificationModel.cs" caret="380" fromTop="17" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:UserModel.cs" caret="101" fromTop="5" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Home/f:Index.cshtml" caret="183" fromTop="12" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Index.cshtml" caret="127" fromTop="6" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/f:_Layout.cshtml" caret="273" fromTop="12" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="662" fromTop="22" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:ClassificationType.cs" caret="183" fromTop="10" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="0" fromTop="0" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1611" fromTop="36" />
     </RecentFiles>
     <RecentEdits>
-      <File id="1CD403EC-ECB2-45C4-AE9C-C48817D4B6C1/f:BasicTests.Tests.cs" caret="2237" fromTop="21" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="1058" fromTop="34" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="1406" fromTop="47" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="594" fromTop="21" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Data/f:IDataContext.cs" caret="740" fromTop="24" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Data/f:IDataContext.cs" caret="675" fromTop="24" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Data/f:DataContext.cs" caret="188" fromTop="9" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Data/f:DataContext.cs" caret="309" fromTop="13" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="521" fromTop="18" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="330" fromTop="15" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="1223" fromTop="40" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="231" fromTop="9" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/f:Global.asax.cs" caret="457" fromTop="16" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:App_Start/f:NinjectWebCommon.cs" caret="453" fromTop="10" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:App_Start/f:NinjectWebCommon.cs" caret="1734" fromTop="46" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Home/f:Index.cshtml" caret="43" fromTop="0" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/f:_Layout.cshtml" caret="192" fromTop="6" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Shared/d:DisplayTemplates/f:UserModel.cshtml" caret="68" fromTop="2" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Home/f:Index.cshtml" caret="144" fromTop="9" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="883" fromTop="37" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="665" fromTop="31" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="544" fromTop="25" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="901" fromTop="37" />
-      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:HomeController.cs" caret="832" fromTop="33" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:ClassificationType.cs" caret="183" fromTop="10" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1607" fromTop="29" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1607" fromTop="3" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="501" fromTop="28" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="488" fromTop="17" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="586" fromTop="23" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="667" fromTop="28" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="783" fromTop="26" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="70" fromTop="3" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="1225" fromTop="13" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="1225" fromTop="22" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="3033" fromTop="28" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="3033" fromTop="33" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1607" fromTop="38" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="1918" fromTop="3" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="1814" fromTop="12" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="3082" fromTop="29" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="1102" fromTop="7" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="1215" fromTop="21" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Create.cshtml" caret="137" fromTop="6" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="3238" fromTop="28" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="254" fromTop="11" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="942" fromTop="19" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="1400" fromTop="28" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Index.cshtml" caret="45" fromTop="0" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Views/d:Movie/f:Index.cshtml" caret="312" fromTop="11" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1607" fromTop="15" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Controllers/f:MovieControllerController.cs" caret="851" fromTop="26" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1601" fromTop="22" />
+      <File id="BF42FF51-9950-44E4-B9D0-19D26FDC225F/d:Models/f:MovieModel.cs" caret="1536" fromTop="33" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -59,7 +76,7 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="override" priority="0" />
+      <Item value="override" priority="2" />
       <Item value="protected" priority="1" />
       <Item value="void" priority="0" />
       <Item value="DocumentConvention`0" priority="0" />
@@ -70,21 +87,106 @@
       <Item value="MvcApplication`0" priority="2" />
       <Item value="HomeController`0" priority="0" />
       <Item value="IDataContext`0" priority="0" />
-      <Item value="return" priority="0" />
-      <Item value="this" priority="2" />
+      <Item value="return" priority="5" />
+      <Item value="this" priority="14" />
       <Item value="dataContext" priority="1" />
-      <Item value="private" priority="0" />
+      <Item value="private" priority="1" />
       <Item value="DataContext`0" priority="0" />
-      <Item value="using" priority="2" />
-      <Item value="var" priority="0" />
-      <Item value="session" priority="0" />
+      <Item value="using" priority="7" />
+      <Item value="var" priority="10" />
+      <Item value="session" priority="9" />
       <Item value="Ninject" priority="3" />
       <Item value="kernel" priority="2" />
-      <Item value="XmlSiteMapProvider`0" priority="0" />
-      <Item value="x" priority="1" />
+      <Item value="XmlSiteMapProvider`0" priority="6" />
+      <Item value="x" priority="5" />
       <Item value="Extensions.Conventions" priority="0" />
-      <Item value="IEnumerable" priority="0" />
-      <Item value="UserModel`0" priority="0" />
+      <Item value="IEnumerable" priority="4" />
+      <Item value="UserModel`0" priority="8" />
+      <Item value="public" priority="26" />
+      <Item value="ActionResult`0" priority="4" />
+      <Item value="userModel" priority="1" />
+      <Item value="Index`0" priority="0" />
+      <Item value="new" priority="9" />
+      <Item value="Users" priority="1" />
+      <Item value="users" priority="1" />
+      <Item value="UserModel" priority="0" />
+      <Item value="HomePageViewModel`0" priority="1" />
+      <Item value="homePageViewModel" priority="1" />
+      <Item value="bindingContext" priority="0" />
+      <Item value="as" priority="1" />
+      <Item value="if" priority="2" />
+      <Item value="model" priority="2" />
+      <Item value="ModelBinders" priority="0" />
+      <Item value="typeof" priority="0" />
+      <Item value="propertyDescriptor" priority="0" />
+      <Item value="string" priority="8" />
+      <Item value="where" priority="2" />
+      <Item value="u" priority="14" />
+      <Item value="searchTerm" priority="11" />
+      <Item value="select" priority="2" />
+      <Item value="SearchResults" priority="1" />
+      <Item value="IList" priority="2" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="Enumerable`0" priority="0" />
+      <Item value="Search`0" priority="2" />
+      <Item value="System" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="int" priority="4" />
+      <Item value="isAgeSearch" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="from" priority="1" />
+      <Item value="age" priority="0" />
+      <Item value="Any`1" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="i" priority="4" />
+      <Item value="MovieModel`0" priority="1" />
+      <Item value="Title" priority="0" />
+      <Item value="Synopsis" priority="0" />
+      <Item value="Classification" priority="0" />
+      <Item value="ClassificationModel" priority="0" />
+      <Item value="ClassificationType" priority="0" />
+      <Item value="ClassificationType`0" priority="0" />
+      <Item value="Cast" priority="0" />
+      <Item value="List&lt;string&gt;" priority="1" />
+      <Item value="ThumbnailUrl" priority="0" />
+      <Item value="BannerUrl" priority="0" />
+      <Item value="TotalLength" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="TimeSpan" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="ViewData" priority="0" />
+      <Item value="savedData" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="mov" priority="1" />
+      <Item value="orderby" priority="1" />
+      <Item value="ascending" priority="0" />
+      <Item value="ps" priority="1" />
+      <Item value="psb" priority="0" />
+      <Item value="psvm" priority="0" />
+      <Item value="partial" priority="0" />
+      <Item value="c" priority="1" />
+      <Item value="e" priority="1" />
+      <Item value="C" priority="0" />
+      <Item value="M~d" priority="0" />
+      <Item value="M~s" priority="0" />
+      <Item value="m" priority="1" />
+      <Item value="m~s" priority="0" />
+      <Item value="md" priority="0" />
+      <Item value="m~i" priority="0" />
+      <Item value="mh.s" priority="3" />
+      <Item value="s" priority="0" />
+      <Item value="M" priority="0" />
+      <Item value="Mh.s" priority="0" />
+      <Item value="ns" priority="0" />
+      <Item value="n~s" priority="0" />
+      <Item value="nh.s" priority="0" />
+      <Item value="p~s" priority="0" />
+      <Item value="p~d" priority="0" />
+      <Item value="pb" priority="0" />
+      <Item value="pd" priority="0" />
+      <Item value="pi" priority="0" />
+      <Item value="double" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Raven.Client.Document.DocumentStore">
       <Item value="Dispose`0" priority="0" />
@@ -94,13 +196,18 @@
       <Item value="Store" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:RavenDB.Controllers.HomeController">
-      <Item value="dataContext" priority="1" />
+      <Item value="dataContext" priority="3" />
+      <Item value="View`0" priority="1" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="GetAllUsers`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:RavenDB.Data.IDataContext">
-      <Item value="OpenSession`0" priority="0" />
+      <Item value="OpenSession`0" priority="4" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Raven.Client.IDocumentSession">
-      <Item value="Query`2" priority="0" />
+      <Item value="Query`2" priority="3" />
+      <Item value="Store`0" priority="1" />
+      <Item value="SaveChanges`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Ninject.StandardKernel">
       <Item value="AddBinding`0" priority="1" />
@@ -116,9 +223,60 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:Raven.Client.Linq.IRavenQueryable`1">
       <Item value="Where`1" priority="0" />
+      <Item value="Customize`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:RavenDB.Models.UserModel">
-      <Item value="Age" priority="0" />
+      <Item value="Age" priority="3" />
+      <Item value="Tags" priority="2" />
+      <Item value="Name" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDB.ViewModels.HomePageViewModel">
+      <Item value="NewUser" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Raven.Client.IDocumentQueryCustomization">
+      <Item value="WaitForNonStaleResults`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.Http.ModelBinding.ModelBindingContext">
+      <Item value="Model" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="Any`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="1" />
+      <Item value="Contains`0" priority="2" />
+      <Item value="Any`1" priority="0" />
+      <Item value="StartsWith`0" priority="2" />
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="EndsWith`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Empty`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDB.Controllers.MovieControllerController">
+      <Item value="dataContext" priority="0" />
+      <Item value="RedirectToAction`0" priority="0" />
+      <Item value="View`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RavenDB.Models.ClassificationType">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDB.Controllers.MovieController">
+      <Item value="dataContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Take`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RavenDB.Models.MovieModel">
+      <Item value="Title" priority="0" />
+      <Item value="Id" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

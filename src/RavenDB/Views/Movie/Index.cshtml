@@ -1,0 +1,14 @@
+﻿@model IEnumerable<RavenDB.Models.MovieModel>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>
+    Movies</h2>
+@foreach (var movie in Model)
+{
+    <div>
+        <p>@movie.Title</p>
+        <img src="@movie.ThumbnailUrl" width="300" height="100"  alt="@movie.Title" />
+        <p>@movie.TotalLength.ToString()</p>
+    </div>
+}

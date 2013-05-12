@@ -1,5 +1,5 @@
-﻿@model IEnumerable<RavenDB.Models.UserModel>
-
+﻿@model RavenDB.ViewModels.HomePageViewModel
+@using RavenDB.Models;
 @{
     ViewBag.Title = "Index";
 }
@@ -7,5 +7,19 @@
 <h2>Hello World</h2>
 
 <ul>
-    @Html.DisplayForModel()
+    @Html.DisplayFor(x => x.Users)
 </ul>
+
+@Html.EditorFor(x => x.NewUser)
+
+@using (Html.BeginForm("Search", "Home", FormMethod.Get))
+{
+    @Html.EditorFor(m => m.SearchTerm) 
+    <input type="submit" value="Search users" />
+}
+
+@if (Model.SearchResults.Any())
+{
+    <h3>Searxh Results for @Model.SearchTerm</h3>
+    @Html.DisplayFor(m => m.SearchResults) 
+}

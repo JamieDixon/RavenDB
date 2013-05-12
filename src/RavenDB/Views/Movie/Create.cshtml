@@ -1,0 +1,55 @@
+﻿@model RavenDB.Models.MovieModel
+
+@{
+    ViewBag.Title = "Add movie";
+}
+
+<h2>Add a movie</h2>
+@if (ViewBag.Saved)
+{
+    <p>Cool, thanks! Raven just ate up your data. Thanks for feeding the birds.</p> 
+}
+@using (Html.BeginForm())
+{
+    <input type="submit" value="Generate Sample Content" />
+}
+   @* <p>
+    @Html.LabelFor(x => x.Title) 
+    @Html.EditorFor(x => x.Title)
+    </p>
+    
+     <p>
+    @Html.LabelFor(x => x.Synopsis) 
+    @Html.EditorFor(x => x.Synopsis)
+    </p>
+
+    
+     <p>
+    @Html.LabelFor(x => x.Cast) 
+    @Html.TextAreaFor(x => x.Cast)
+    </p>}
+
+     <p>
+    @Html.LabelFor(x => x.Crew) 
+    @Html.TextAreaFor(x => x.Crew)
+    </p>
+
+     <p>
+    @Html.LabelFor(x => x.TotalLength) 
+    @Html.EditorFor(x => x.TotalLength)
+    </p>
+
+     <p>
+    @Html.LabelFor(x => x.ThumbnailUrl) 
+    @Html.EditorFor(x => x.ThumbnailUrl)
+    </p>
+
+    <p>
+    @Html.LabelFor(x => x.BannerUrl) 
+    @Html.EditorFor(x => x.BannerUrl)
+    </p>
+    
+    <p>
+    @Html.LabelFor(x => x.VideoUrl) 
+    @Html.EditorFor(x => x.VideoUrl)
+    </p>*@
